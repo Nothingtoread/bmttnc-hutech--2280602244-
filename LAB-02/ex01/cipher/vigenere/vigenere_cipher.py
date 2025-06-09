@@ -30,4 +30,4 @@ class VigenereCipher:
                 key_index += 1
             else:
                 decrypted_text += char
-        return decrypted_text
+        return decrypted_text 
